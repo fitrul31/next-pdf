@@ -1,0 +1,19 @@
+{
+  "name": "next-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fitrul31/next-pdf.git",
+  "author": "fitrul31 <fitrul@volantis.io>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@phuocng/react-pdf-viewer": "^1.2.0",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
