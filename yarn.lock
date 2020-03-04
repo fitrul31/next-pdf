@@ -905,10 +905,10 @@
   resolved "https://registry.yarnpkg.com/@next/polyfill-nomodule/-/polyfill-nomodule-9.2.2.tgz#2687d5b64ba053b247700f057f083dfd392ee52e"
   integrity sha512-J51QpynN0AxQ0saWkxgpr0JxWqSJFCBOOeQpbyn5hlgxjrcXR9dQ59tN677vbq2wJ8idLn898vZFaRmQsLq13A==
 
-"@phuocng/react-pdf-viewer@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@phuocng/react-pdf-viewer/-/react-pdf-viewer-1.2.0.tgz#f814910a95fb1fcf3f8dc2a554c1ee90aa437524"
-  integrity sha512-t4tiF3+FIdbSpdgBWe/saNDjC1rGoS5cZ5JuK0CO6LaJZw8B7KdwSDzm56lJLg2YlNDoYjtDGpcA71uKi1kU4Q==
+"@phuocng/react-pdf-viewer@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@phuocng/react-pdf-viewer/-/react-pdf-viewer-1.2.1.tgz#037f3fabea86f17f4a50c9767391a8b7dda2665f"
+  integrity sha512-4aeRrsl3quO2fe6xX+nyfCmmZA81rwYkoNPz0EBFCjUTNMeffpRr9rcItd3F9+SDSTmMTbDsnwWfB7WfDmGOwQ==
   dependencies:
     pdfjs-dist "^2.2.228"
 
